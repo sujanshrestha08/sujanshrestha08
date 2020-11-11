@@ -2,12 +2,11 @@
 
 ## I am a recent Graduate and a very Active Learner!!!
 
-- 🔭 I recently graduated my Bachelor's degree from Softwarica College of IT and E-commerce (https://softwarica.edu.np/) 
+- 🔭 I recently graduated my Bachelor's degree from Coventry University.(https://softwarica.edu.np/)
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m willing to work with the most enthusiastic people.
-- 🥅 2021 Goals: Learn JS and its frameworks <i>Plus learn from the mistkes of my seniors,improve and improvise those mistakes.</i>
-- ⚡ Fun fact: I love to draw and play guitar. And I am good at research.
-
+- 🥅 2021 Goals: Learn JS and its framework along with node JS <i>Plus learn from the mistakes of my seniors, improve and improvise those mistakes.</i>
+- ⚡ Fun fact: I love to play guitar and draw sketches. And I am good at thorough research.
 
 ### Connect with me:
 
