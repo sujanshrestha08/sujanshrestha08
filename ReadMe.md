@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning Flutter.
 - 🌱 I'll be learning JS and Python soon.
 - 👯 I’m willing to work with the most enthuistic people.
-- 🥅 2021 Goals: Learn JS and its frameworks [<p><i>Plus learn from the mistkes of my seniors, 
-                                                improve and improvise those mistakes.</i></p>]
+- 🥅 2021 Goals: Learn JS and its frameworks <i>Plus learn from the mistkes of my seniors,improve and improvise those mistakes.</i>
 - ⚡ Fun fact: I love to draw and play guitar. And I am good at research.
 
 
