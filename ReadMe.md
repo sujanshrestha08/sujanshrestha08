@@ -2,7 +2,7 @@
 
 ## I am a recent Graduate and a very Active Learner!!!
 
-- 🔭 I graduated my Bachelor's degree from Coventry University in 2020.(https://softwarica.edu.np/)
+- 🔭 I graduated my Bachelor's degree from Coventry University of UK in 2020.(https://softwarica.edu.np/)
 - 🌱 I’m currently learning Flutter with three months of internship experience and 2 months plus ongoing of working experience.
 - 👯 I’m willing to work with the most enthusiastic people.
 - 🥅 2021 Goals: Learn advance flutter with all its widgets and strategic along with node JS <i>Plus learn from the mistakes of my seniors, improve and improvise those mistakes.</i>
