@@ -9,16 +9,18 @@
 - ⚡ Fun fact: I love to play guitar and draw sketches. And I am good at thorough research too.
 
 ### Connect with me:
-
+<div style="background-color:white">
 [<img align="left" alt="sujanshrestha08 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style ="color: white" />][facebook]
 <img align="left" alt="sujansthrestha08 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style ="color: white"/> 
 [<img align="left" alt="sujansthrestha08 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style ="color: white"/>][linkedin]
 [<img align="left" alt="sujansthrestha08 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style ="color: white"/>][instagram]
+  </div>
 <br>
 
 ### Languages and Tools:
 <i>Knowledge of the following languages and Used tools</i>
 <br />
+
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
