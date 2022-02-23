@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play guitar and draw sketches. And I am good at thorough research too.
 
 ### Connect with me:
-[<div style = "background-color: red"><img align="left" alt="sujanshrestha08 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style ="color: white" /> </div>][facebook]
+[<div style="background-color: red"><img align="left" alt="sujanshrestha08 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color: white" /> </div>][facebook]
 <img align="left" alt="sujansthrestha08 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style ="fill: white"/> 
 [<img align="left" alt="sujansthrestha08 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style ="color: white"/>][linkedin]
 [<img align="left" alt="sujansthrestha08 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style ="color: white"/>][instagram]
