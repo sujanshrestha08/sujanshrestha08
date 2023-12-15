@@ -1,12 +1,11 @@
 ### Hi there, I'm Sujan Shrestha 👋
 
-## I am a recent Graduate and a very Active Learner!!!
+## I am a Graduate and a very Active Learner!!!
 
-- 🔭 I graduated my Bachelor's degree from Coventry University of UK in 2020.(https://softwarica.edu.np/)
-- 🌱 I’m currently learning Flutter with three months of internship experience and 10 months plus ongoing of working experience.
+- 🔭 I graduated with my Bachelor's degree from Coventry University of the UK in 2020.(https://softwarica.edu.np/)
 - 👯 I’m willing to work with the most enthusiastic people.
-- 🥅 2021 Goals: Learn advance flutter with all its widgets and strategic along with node JS <i>Plus learn from the mistakes of my seniors, improve and improvise those mistakes.</i>
-- ⚡ Fun fact: I love to play guitar and draw sketches. And I am good at thorough research too.
+- 🥅 2023 Goals: Learn Swift.</i>
+- ⚡ Fun fact: I love to play guitar and draw sketches. I am good at thorough research too.
 
 ### Connect with me:
 [<div style="background-color: red"><img align="left" alt="sujanshrestha08 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color: white" /> </div>][facebook]
